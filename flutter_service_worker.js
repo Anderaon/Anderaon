@@ -3,10 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6a3eb2ace898ee41e6a8340ce666f66e",
-"assets/assets/5uwq.gif": "4629897b3426095a9fab1cb8ab15df3c",
-"assets/assets/background.png": "7b914c60d28f63c2f67a2526de6a6d76",
-"assets/assets/logo/Radio_Formosa-removebg-preview.png": "5e1df5197ab6020bf37fbcdad91d2b2f",
+  "assets/AssetManifest.json": "5b9c31d29e4a74cd1aaa2ec56514e4e3",
+"assets/assets/logo/background.png": "a8508e7f2ecc2927291282e22a8b1a2d",
+"assets/assets/logo/radioLogo.png": "1540533a091aefff136432fddf7c2a53",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "2ce304688515f79c158183ce7fedd30b",
@@ -21,9 +20,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b25cc71729d8ff3bfdfe70a42ddd8a0f",
-"/": "b25cc71729d8ff3bfdfe70a42ddd8a0f",
-"main.dart.js": "46208b71f8eebaa057c09da97aaf4343",
+"index.html": "b346c6fd57529c886a70a3ae8571c5e1",
+"/": "b346c6fd57529c886a70a3ae8571c5e1",
+"main.dart.js": "1cf8421f345f70587bfc35a819bc18fb",
 "manifest.json": "0bfb09edf317a4690d28e011b8e455ca",
 "version.json": "3770086952a3d9ef119c6d13d3128758"
 };
